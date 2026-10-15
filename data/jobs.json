@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Intern",
+    "company": "Demo AI Labs",
+    "location": "Bengaluru",
+    "description": "We need Python, machine learning, pandas, numpy, scikit-learn, SQL, data preprocessing and model evaluation skills."
+  },
+  {
+    "id": 2,
+    "title": "NLP Intern",
+    "company": "Demo Language Technologies",
+    "location": "Remote",
+    "description": "Work on natural language processing, Python, deep learning, text embeddings and model evaluation."
+  },
+  {
+    "id": 3,
+    "title": "AI Application Developer Intern",
+    "company": "Demo Software Labs",
+    "location": "Bengaluru",
+    "description": "Build AI-powered applications using Python, FastAPI, React, SQL, Docker and AWS."
+  },
+  {
+    "id": 4,
+    "title": "Full-Stack Developer Intern",
+    "company": "Demo Web Systems",
+    "location": "Bengaluru",
+    "description": "Develop web applications using React, Python, REST API, SQL, Git and Docker."
+  }
+]
